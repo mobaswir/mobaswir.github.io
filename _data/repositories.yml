@@ -1,0 +1,18 @@
+github_users:
+  - ezmata-101
+  # - alshedivat
+
+repo_description_lines_max: 0
+
+github_repos:
+  - ParkedCar-Dev/ParkedCar-Owner
+  - ezmata-101/Online-Judge
+  - ezmata-101/Chess
+  - ezmata-101/CarShowroom
+  # - alshedivat/al-folio
+  # - jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
