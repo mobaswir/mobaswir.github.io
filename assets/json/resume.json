@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "United International University",
+      "position": "Lecturer",
+      "url": "https://cse.uiu.ac.bd",
+      "startDate": "2024-11-03",
+      "endDate": "present",
+      "summary": "",
+      "highlights": ["Database Management System", "Theory of Computation"]
+    },
+    {
       "name": "Samsung R&D Institute Bangladesh",
       "position": "Software Engineer",
       "url": "https://research.samsung.com/srbd",
       "startDate": "2024-06-01",
-      "endDate": "present",
+      "endDate": "2024-11-01",
       "summary": "Working on the development of the Tizen Native Apps",
       "highlights": ["Tizen Os", "C#", "DotNet", "Linux"]
     }
