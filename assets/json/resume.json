@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "United International University",
+      "name": "Computer Science and Engineering, United International University",
       "position": "Lecturer",
       "url": "https://cse.uiu.ac.bd",
       "startDate": "2024-11-03",
@@ -54,6 +54,7 @@
       "score": "3.77",
       "courses": [
         "Programming Languages and Systems",
+        "Distributed Systems",
         "Network Security"
       ]
     },
