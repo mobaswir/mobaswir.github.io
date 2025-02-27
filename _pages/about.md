@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software Engineer, Samsung R&D Institute Bangladesh, Dhaka
+subtitle: Lecturer, Department of Computer Science and Engineering, United International University
 
 profile:
   align: left
