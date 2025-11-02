@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ezmata-101.github.io/sitemap.xml
+Sitemap: https://mobaswir.github.io/sitemap.xml
