@@ -55,7 +55,8 @@
       "courses": [
         "Programming Languages and Systems",
         "Distributed Systems",
-        "Network Security"
+        "Network Security",
+        "Advanced Machine Learning"
       ]
     },
     {
@@ -82,6 +83,46 @@
       ]
     }
   ],
+  "publications": [
+  ],
+  "projects": [
+    {
+      "name": "Adaptive Fairness Compensation-based Federated Learning",
+      "icon": "fa-solid fa-diagram-project",
+      "reference": "Fairness-aware FL with adaptive α and r, plus never-starve client selection (PyTorch).",
+      "url": "https://github.com/ezmata-101/AFCFL"
+    },
+    {
+      "name": "NS-3 WiFi Trace Analyzer",
+      "icon": "fa-solid fa-wifi",
+      "reference": "Analyzer for full-duplex Wi-Fi traces; classifies HD/FD flows and computes study metrics.",
+      "url": "https://github.com/ns3-wifi-full-duplex/ns3-wireless-trace-file-analyzer"
+    },
+    {
+      "name": "ParkedCar",
+      "icon": "fa-solid fa-car",
+      "reference": "Android apps for lending/renting parking spaces (MVVM client, MVC server).",
+      "url": "https://github.com/orgs/ParkedCar-Dev/repositories"
+    },
+    {
+      "name": "Online Judge",
+      "icon": "fa-solid fa-code",
+      "reference": "React-based platform to host contests and solve problems (React, Express, Oracle DB).",
+      "url": "https://github.com/ezmata-101/Online-Judge"
+    },
+    {
+      "name": "Chess",
+      "icon": "fa-solid fa-chess",
+      "reference": "Multiplayer desktop chess (JavaFX, Java sockets, SQLite).",
+      "url": "https://github.com/ezmata-101/Chess"
+    },
+    {
+      "name": "YAPG – Yet Another Pong Game",
+      "icon": "fa-solid fa-gamepad",
+      "reference": "Hardware pong game (ATmega32, ultrasonic sensor, LED matrix, buzzer, LCD).",
+      "url": "https://github.com/Shehabul-Islam-Sawraz/YAPG-Yet_Another_Pong_Game"
+    }
+  ],
   "awards": [
     {
       "title": "Deans List",
@@ -89,8 +130,6 @@
       "awarder": "Bangladesh University of Engineering and Technology",
       "summary": "Awarded for outstanding academic performance"
     }
-  ],
-  "publications": [
   ],
   "skills": [
     {
@@ -170,7 +209,5 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Principal Software Engineer, Samsung R&D Institute Bangladesh"
     }
-  ],
-  "projects": [
-  ]
+  ]  
 }
