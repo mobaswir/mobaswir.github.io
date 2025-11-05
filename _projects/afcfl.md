@@ -2,7 +2,7 @@
 layout: page
 title: AFCFL — Adaptive Fairness Compensation-based Federated Learning
 description: Implementation and modification of FCFL.
-img: 
+img: assets/img/afcfl.png
 redirect: https://github.com/ezmata-101/AFCFL
 importance: 3
 category: coursework
