@@ -22,4 +22,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello from Mobaswirul Islam.
+I completed my B.Sc. in Computer Science and Engineering from BUET. I am now a Lecturer in the Department of CSE at United International University; before that, I worked as a Software Engineer at Samsung R&D Institute Bangladesh. I’m interested in computer networking and equally concerned about privacy and security—my goal is to build practical, reliable systems that keep users safe without sacrificing performance.

@@ -48,22 +48,6 @@
       "location": "Dhaka, Bangladesh",
       "url": "https://www.buet.ac.bd",
       "area": "Computer Science and Engineering",
-      "studyType": "MSc",
-      "startDate": "2024-09",
-      "endDate": "present",
-      "score": "3.77",
-      "courses": [
-        "Programming Languages and Systems",
-        "Distributed Systems",
-        "Network Security",
-        "Advanced Machine Learning"
-      ]
-    },
-    {
-      "institution": "Bangladesh University of Engineering and Technology",
-      "location": "Dhaka, Bangladesh",
-      "url": "https://www.buet.ac.bd",
-      "area": "Computer Science and Engineering",
       "studyType": "B.Sc.",
       "startDate": "2019-04",
       "endDate": "2024-07",
@@ -87,16 +71,22 @@
   ],
   "projects": [
     {
+      "name": "NS-3 WiFi Trace Analyzer",
+      "icon": "fa-solid fa-wifi",
+      "reference": "Analyzer for full-duplex Wi-Fi traces; classifies HD/FD flows and computes study metrics.",
+      "url": "https://github.com/ns3-wifi-full-duplex/ns3-wireless-trace-file-analyzer"
+    },
+    {
       "name": "Adaptive Fairness Compensation-based Federated Learning",
       "icon": "fa-solid fa-diagram-project",
       "reference": "Fairness-aware FL with adaptive α and r, plus never-starve client selection (PyTorch).",
       "url": "https://github.com/ezmata-101/AFCFL"
     },
     {
-      "name": "NS-3 WiFi Trace Analyzer",
-      "icon": "fa-solid fa-wifi",
-      "reference": "Analyzer for full-duplex Wi-Fi traces; classifies HD/FD flows and computes study metrics.",
-      "url": "https://github.com/ns3-wifi-full-duplex/ns3-wireless-trace-file-analyzer"
+      "name": "SplitFed (implementation)",
+      "icon": "fa-solid fa-diagram-project",
+      "reference": "Implementation of SplitFed: When Federated Learning Meets Split Learning (With Basic ServerSocket mechanism).",
+      "url": "https://github.com/ezmata-101/SFL"
     },
     {
       "name": "ParkedCar",
